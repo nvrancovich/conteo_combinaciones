@@ -1,1 +1,1 @@
-# statistics_combinations
+# probability_combinations
