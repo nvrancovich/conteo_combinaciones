@@ -1,1 +1,1 @@
-# probability_combinations
+# conteo_combinaciones
